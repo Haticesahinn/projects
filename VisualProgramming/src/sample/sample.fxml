@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<GridPane alignment="TOP_CENTER" cache="true" focusTraversable="true" hgap="10" prefHeight="416.0" prefWidth="578.0" vgap="10" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+   </rowConstraints>
+   <children>
+      <Button fx:id="btnReset" maxWidth="70.0" mnemonicParsing="false" onAction="#pressresetButton" prefHeight="70.0" text="Reset" GridPane.columnIndex="3" GridPane.rowIndex="16">
+         <GridPane.margin>
+            <Insets left="13.0" />
+         </GridPane.margin></Button>
+      <Button fx:id="btnText" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#presstextButton" prefHeight="30.0" prefWidth="96.0" text="TEXT" textAlignment="CENTER" GridPane.columnIndex="2" GridPane.columnSpan="2147483647" GridPane.rowIndex="1" GridPane.rowSpan="2147483647" />
+      <Button fx:id="btnXml" contentDisplay="CENTER" minHeight="30.0" minWidth="96.0" mnemonicParsing="false" onAction="#pressxmlButton" prefWidth="9.0" text="XML" textAlignment="CENTER" GridPane.columnIndex="1" GridPane.rowIndex="1" GridPane.rowSpan="2147483647" />
+      <CheckBox fx:id="linechartBox" mnemonicParsing="false" onAction="#handlechartBox" text="Line Chart" textAlignment="CENTER" GridPane.columnIndex="2" GridPane.rowIndex="14">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </CheckBox>
+      <CheckBox fx:id="barchartBox" mnemonicParsing="false" onAction="#handlechartBox" text="Bar Chart" GridPane.columnIndex="1" GridPane.rowIndex="14">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </CheckBox>
+      <Button fx:id="btnStart" maxHeight="1.7976931348623157E308" maxWidth="70.0" mnemonicParsing="false" onAction="#pressstartButton" text="Start" GridPane.columnIndex="1" GridPane.rowIndex="16">
+         <GridPane.margin>
+            <Insets left="13.0" />
+         </GridPane.margin></Button>
+      <Button fx:id="btnstop" maxWidth="70.0" mnemonicParsing="false" onAction="#pressstopButton" prefHeight="50.0" text="Stop" GridPane.columnIndex="2" GridPane.rowIndex="16">
+         <GridPane.margin>
+            <Insets left="8.0" />
+         </GridPane.margin></Button>
+   </children>
+</GridPane>
