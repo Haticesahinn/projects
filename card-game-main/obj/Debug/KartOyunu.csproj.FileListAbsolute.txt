@@ -1,0 +1,14 @@
+C:\Users\Cem\source\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\Cem\source\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\Cem\source\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\Cem\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\Cem\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\Cem\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\YSK\Desktop\program\KartOyunuson (2)\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\YSK\Desktop\program\KartOyunuson (2)\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\YSK\Desktop\program\KartOyunuson (2)\KartOyunu\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\YSK\Desktop\program\KartOyunuson (2)\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\YSK\Desktop\program\KartOyunuson (2)\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.CoreCompileInputs.cache
+C:\Users\YSK\Desktop\program\KartOyunuson (2)\KartOyunu\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\YSK\Desktop\program\KartOyunuson (2)\KartOyunu\KartOyunu\obj\Debug\KartOyunu.pdb
